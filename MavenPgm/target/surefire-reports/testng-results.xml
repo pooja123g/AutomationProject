@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-28T17:45:26 CET" name="Suite" finished-at="2024-12-28T17:45:44 CET" duration-ms="17523">
+    <groups>
+    </groups>
+    <test started-at="2024-12-28T17:45:26 CET" name="Test" finished-at="2024-12-28T17:45:44 CET" duration-ms="17523">
+      <class name="com.test.MultiTest">
+        <test-method is-config="true" signature="Initalization()[pri:0, instance:com.test.MultiTest@74f0ea28]" started-at="2024-12-28T17:45:37 CET" name="Initalization" finished-at="2024-12-28T17:45:43 CET" duration-ms="5404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initalization -->
+        <test-method signature="SelectDropDown()[pri:1, instance:com.test.MultiTest@74f0ea28]" started-at="2024-12-28T17:45:43 CET" name="SelectDropDown" finished-at="2024-12-28T17:45:43 CET" duration-ms="213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDropDown -->
+        <test-method signature="DragAndDrop()[pri:2, instance:com.test.MultiTest@74f0ea28]" started-at="2024-12-28T17:45:43 CET" name="DragAndDrop" finished-at="2024-12-28T17:45:43 CET" duration-ms="457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DragAndDrop -->
+        <test-method is-config="true" signature="CleanUp()[pri:0, instance:com.test.MultiTest@74f0ea28]" started-at="2024-12-28T17:45:43 CET" name="CleanUp" finished-at="2024-12-28T17:45:44 CET" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CleanUp -->
+      </class> <!-- com.test.MultiTest -->
+      <class name="com.test.DragAndDrop">
+        <test-method signature="DragDrop()[pri:0, instance:com.test.DragAndDrop@6572421]" started-at="2024-12-28T17:45:26 CET" name="DragDrop" finished-at="2024-12-28T17:45:37 CET" duration-ms="11139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DragDrop -->
+      </class> <!-- com.test.DragAndDrop -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

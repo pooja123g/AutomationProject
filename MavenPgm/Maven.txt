@@ -1,0 +1,6 @@
+we should load our framework on Git repo
+
+jenkins --- Git Repo
+
+
+jenkins - pom.xml --- testng.xml file -- Scripting -- main Functionality - Page object model

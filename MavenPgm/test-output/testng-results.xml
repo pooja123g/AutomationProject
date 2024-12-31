@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-28T17:35:22 CET" name="Default suite" finished-at="2024-12-28T17:35:28 CET" duration-ms="6082">
+    <groups>
+    </groups>
+    <test started-at="2024-12-28T17:35:22 CET" name="Default test" finished-at="2024-12-28T17:35:28 CET" duration-ms="6082">
+      <class name="com.test.MultiTest">
+        <test-method is-config="true" signature="Initalization()[pri:0, instance:com.test.MultiTest@55fe41ea]" started-at="2024-12-28T17:35:22 CET" name="Initalization" finished-at="2024-12-28T17:35:27 CET" duration-ms="5076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initalization -->
+        <test-method signature="SelectDropDown()[pri:1, instance:com.test.MultiTest@55fe41ea]" started-at="2024-12-28T17:35:27 CET" name="SelectDropDown" finished-at="2024-12-28T17:35:27 CET" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDropDown -->
+        <test-method signature="DragAndDrop()[pri:2, instance:com.test.MultiTest@55fe41ea]" started-at="2024-12-28T17:35:27 CET" name="DragAndDrop" finished-at="2024-12-28T17:35:27 CET" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DragAndDrop -->
+        <test-method is-config="true" signature="CleanUp()[pri:0, instance:com.test.MultiTest@55fe41ea]" started-at="2024-12-28T17:35:27 CET" name="CleanUp" finished-at="2024-12-28T17:35:28 CET" duration-ms="223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CleanUp -->
+      </class> <!-- com.test.MultiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
