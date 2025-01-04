@@ -31,9 +31,9 @@ public class MultiTest {
 
 		Select sel = new Select(selectdrpdwn);
 
-		sel.selectByIndex(4);
+		sel.selectByIndex(2);
 
-		sel.selectByValue("france");
+		sel.selectByValue("india");
 
 		// selectByVisibleText("Luggage");
 
